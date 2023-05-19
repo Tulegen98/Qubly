@@ -1,3 +1,3 @@
 # Qubly
- Done Project
-HTML/SCSS/Webpack
+Done Project |
+| HTML/SCSS/Webpack
